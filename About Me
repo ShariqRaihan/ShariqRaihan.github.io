@@ -42,8 +42,15 @@
 								<header class="major">
 									<h1>About Me<br />
 									Shariq Raihan</h1>
-									<p>Bachelors of Science in Technological Systems Management at Stony Brook University </a><br />
-									Masters of Science in Data Science at University of Rhode Island </a><br /></p>
+									<style>
+										p {
+										  font-size: 25 px; /* You can adjust the font size as needed */
+										  margin-bottom: 1em; /* This adds one line of space below each paragraph */
+										}
+									  </style>
+									  
+									  <p>Bachelors of Science in Technological Systems Management at Stony Brook University</p>
+									  <p>Masters of Science in Data Science at University of Rhode Island</p>
 								</header>
 								<p><span class="image left"><img src="images/Shariq.jpg" alt="" /></span>
 								<p>My name is Shariq Raihan, and I am a passionate individual born in the vibrant city of New York in the early 2000s. Growing up in the city that never sleeps, I was surrounded by a melting pot of cultures, which is a testament to my diverse and rich background.</p>
