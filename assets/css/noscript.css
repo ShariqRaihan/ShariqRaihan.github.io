@@ -1,0 +1,13 @@
+@import url(font-awesome.min.css);
+
+	body.is-preload #intro {
+		opacity: 1;
+	}
+
+		body.is-preload #intro:not(.hidden) + #header + #nav {
+			-moz-transform: none;
+			-webkit-transform: none;
+			-ms-transform: none;
+			transform: none;
+			opacity: 1;
+		}
